@@ -1,4 +1,4 @@
-# Batch convert all .pptx files in a folder
+# Batch convert all .pptx files to PDF in a folder
 # based on scripts found at https://gist.github.com/mp4096/1a2279ec7b3dfec659f58e378ddd9aee and http://tech.franzone.blog/2019/11/19/how-to-create-a-word-to-pdf-converter-script-in-powershell/
 
 #set directory to the folder which contains the files you wish to convert
